@@ -7,15 +7,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prattty001" alt="prattty001" /></a> </p>
 
 
-- My LEETCODE  : [https://leetcode.com/u/harshrana8454/](https://leetcode.com/u/harshrana8454/)
+- My LEETCODE  : [Leetcode](https://leetcode.com/u/harshrana8454/)
 
-- 👨‍💻 All of my projects are available at [https://www.harshrana.in](https://www.harshrana.in)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://www.harshrana.in)
 
 - 💬 Ask me about **React,MongoDb,Sql,JavaScript,Node.js,Express.js,Bootstrap,Tailwind Css,Typescript, Java and also i am good at problem Solving**
 
 - 📫 How to reach me **harshrana8454@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PzbOjs6J_4A8ajyYXZ5Mc6fOOByZHKzM/view?usp=share_link]
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PzbOjs6J_4A8ajyYXZ5Mc6fOOByZHKzM/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
