@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prattty001" alt="prattty001" /></a> </p>
 
 
-- My LEETCODE  : https://leetcode.com/u/harshrana8454/
+- My LEETCODE  : [https://leetcode.com/u/harshrana8454/](https://leetcode.com/u/harshrana8454/)
 
 - 👨‍💻 All of my projects are available at [https://www.harshrana.in](https://www.harshrana.in)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/iharshrana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyush-raghuvanshi-0aa002217/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/harshrana8454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pratyush_maang121/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iharshrana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratyush-raghuvanshi-0aa002217/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/harshrana8454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pratyush_maang121/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
