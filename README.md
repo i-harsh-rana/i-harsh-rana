@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,postgres,js,docker,aws,git,github,idea,vscode,postman,react,maven&theme=light&perline=16" alt="java, spring, hibernate, kafka, mysql, postgresql, javascript, docker, aws, git, github, intellij, vscode, postman, react, maven" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,js,docker,aws,git,github,idea,vscode,postman,react,maven&theme=light&perline=15" alt="java, spring, hibernate, kafka, mysql, javascript, docker, aws, git, github, intellij, vscode, postman, react, maven" /></a>
 </p>
 <p align="left">
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="48" height="48"/> </a>
