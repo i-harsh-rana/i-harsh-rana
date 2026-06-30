@@ -3,7 +3,7 @@
 
 <img align="center" alt="Coding" width = "400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🏢 Currently working as a Graduate Engineer Trainee at **Coforge Ltd.**, building scalable microservices and RESTful APIs on Spring Boot
+- 🏢 Currently working as a **Graduate Engineer Trainee (Java Backend)** at **Coforge Ltd.**, building scalable microservices and RESTful APIs on Spring Boot
 
 - ⚡ Hands-on experience with **event-driven architecture** using Apache Kafka, the **Saga pattern**, and resilient service design with **Resilience4j**
 
@@ -27,7 +27,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,postgres,js,docker,aws,git,github,idea,vscode,postman,react,maven" alt="java, spring, hibernate, kafka, mysql, postgresql, javascript, docker, aws, git, github, intellij, vscode, postman, react, maven" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,mysql,postgres,js,docker,aws,git,github,idea,vscode,postman,react,maven&theme=light&perline=16" alt="java, spring, hibernate, kafka, mysql, postgresql, javascript, docker, aws, git, github, intellij, vscode, postman, react, maven" /></a>
+</p>
+<p align="left">
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="48" height="48"/> </a>
 </p>
 
