@@ -33,6 +33,4 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="48" height="48"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-harsh-rana&show_icons=true&locale=en&layout=compact" alt="i-harsh-rana" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-harsh-rana&" alt="i-harsh-rana" /></p>
