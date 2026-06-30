@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/iharshrana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iharshrana/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/harshrana8454/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harshrana8454/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/iharshrana/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="30" /></a>
+<a href="https://leetcode.com/u/harshrana8454/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
